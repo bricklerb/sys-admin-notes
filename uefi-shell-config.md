@@ -1,5 +1,5 @@
 ## Steps to configure startup.nsh linux
-`FS0:`
+`FS0:` <br>
 `edit startup.nsh`
 add to the file
 <ul>
